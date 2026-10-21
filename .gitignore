@@ -65,3 +65,6 @@ veil-assessment-*.pdf
 # can only ever be stale: the one removed here was from April and ran none of
 # the August hardening (origin allowlist, token, rate limit).
 packages/agent/dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
