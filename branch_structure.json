@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1185-the-contract-test-suite-does-not-say-what-it-is",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1185-the-contract-test-suite-does-not-say-what-it-is": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1185-the-contract-test-suite-does-not-say-what-it-is",
+    "origin"
+  ]
+}
